@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.14)
-project(Linenoise)
+project(Linenoise C)
 
 add_library(linenoise
 	linenoise.c
